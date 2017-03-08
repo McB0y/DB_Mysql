@@ -101,6 +101,3 @@ CREATE TABLE DIRECCIONES(IDDIRECCION TINYINT(4) NOT NULL AUTO_INCREMENT UNIQUE,
                       ON DELETE CASCADE
                       ON UPDATE CASCADE
                       );
-
-
---Próximamente en una DB noSQL. (MongoDB).
